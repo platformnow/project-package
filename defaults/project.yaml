@@ -1,0 +1,6 @@
+apiVersion: pkg.platformnow.io/v1
+kind: Project
+metadata:
+  name: test
+  namespace: landscape-system
+spec: {}
